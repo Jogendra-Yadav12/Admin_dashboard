@@ -8,7 +8,7 @@
 <?php include_once('./database/update.php') ?>
 <div class="col-12">
     <label for="inputName" class="form-label">Name</label>
-    <input type="text" class="form-control" id="inputName" placeholder="Name" name="name" value="<?php echo $name ?>">
+    <input type="text" class="form-control" id="inputName" placeholder="Name" name="name">
   </div>
   <div class="col-md-12">
     <label for="inputEmail4" class="form-label">Email</label>

@@ -1,7 +1,7 @@
 <?php include_once('Header.php') ?>
 <div class="container mt-5">
 <h1 class="mt-2">Signup Form</h1>
-<form class="row g-3 p-5" method="POST">
+<form class="row g-3 p-5" method="POST" enctype="multipart/form-data">
 <?php include_once('./database/add_user.php') ?>
 <div class="col-12">
     <label for="inputName" class="form-label">Name</label>

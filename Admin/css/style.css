@@ -27,3 +27,23 @@
 header{
     background-color: blueviolet;
 }
+
+#logout{
+    float: right;
+    width: 100px;
+    height: auto;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: blue;
+    border: transparent;
+    border-radius: 17px;
+    cursor: pointer;
+}
+
+#img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}

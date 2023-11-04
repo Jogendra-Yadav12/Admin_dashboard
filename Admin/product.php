@@ -6,8 +6,10 @@
     <h1 class="mt-2">Products</h1>
 <table class="table table-dark table-striped fs-6">
     <tr>
+        <th>S. No.</th>
+        <th>Photos</th>
         <th>Name</th>
-        <th>price</th>
+        <th>Price</th>
         <th>Company</th>
         <th>Operations</th>
     </tr>
